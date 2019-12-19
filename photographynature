@@ -1,0 +1,66 @@
+<! DOCTYPE html>
+<html>
+<link href="https://fonts.googleapis.com/css?family=Montserrat:100&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Gelasio&display=swap" rel="stylesheet">
+
+<div id="header">
+  <h1 id="mayatochimoto">
+MAYA TOCHIMOTO
+  </h1>
+<hr>
+  <h2 id="headerportfolio">
+    PHOTOGRAPHY
+  </h2>
+</div>
+
+  
+<div id="photos">
+  <p id="naturetext">nature</p>
+<div id="crop1">
+  <img id="photo1" src="https://i.imgur.com/w1WmxSs.jpg">
+  </div>
+  
+<div id="crop2">
+  <img id="photo2" src="https://i.imgur.com/ZoJxpfo.jpg">
+  </div>
+  
+<div id="crop3">
+  <img id="photo3" src="https://i.imgur.com/UrVsQur.jpg">
+  </div>
+
+<div id="crop4">
+  <img id="photo4" src="https://i.imgur.com/oFiw7JD.jpg">
+  </div>
+  
+  <div id="crop5">
+  <img id="photo5" src="https://i.imgur.com/6BCutyB.jpg">
+  </div>
+</div>  
+  
+ <div id="crop6">
+  <img id="photo6" src="https://i.imgur.com/eKJBm9x.jpg">
+  </div>
+</div>     
+
+<footer>
+  <button id="footertexthome">
+    <b>HOME</b>
+  </button>
+   <button id="footertextphotography">
+    <b>PHOTOGRAPHY</b>
+  </button>
+   <button class="footertext">
+    <b>DIGITAL</b>
+  </button>
+   <button class="footertext">
+    <b>TRADITIONAL</b>
+  </button>
+   <button class="footertext">
+    <b>PROJECTS</b>
+  </button>
+   <button id="footertextcontactandabout">
+    <b>CONTACT & ABOUT</b>
+  </button>
+</footer>
+  
+</html>
