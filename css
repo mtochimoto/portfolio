@@ -1,0 +1,162 @@
+#mayatochimoto{
+font-family: 'Montserrat', sans-serif;
+text-align:center;
+font-size:37px;
+padding:80px 0px 0px 0px ;
+}
+
+#headerportfolio{
+  font-family: 'Montserrat', sans-serif;
+  text-align:center;
+  font-size:20px;
+  letter-spacing:20px;
+}
+
+hr{
+  background:black;
+  width: 500px;
+  height:1px; 
+  padding:0px;
+}
+
+#header{
+  background:#fbfbfb;
+  width:100%;
+  Height:270px;
+}
+
+#fence{
+  margin:15px 0px 0px 0px;
+  align:center;
+}
+
+#circlebuttons{
+  padding:100px 20px 100px 20px;
+}
+
+#circlecrop1 {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 100%;
+    Float:left;
+    margin: 0px 40px 0px 40px;
+}
+ 
+#circlecrop2 {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 100%;
+    Float:left;
+    margin: 0px 40px 0px 0px;
+}
+#circlecrop3 {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 100%;
+    Float:left;
+    margin: 0px 40px 0px 0px;
+}
+#circlecrop4 {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 100%;
+    Float:left;
+}
+
+
+.overbutton {
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  font-family: 'Gelasio', serif;
+  letter-spacing:2px;
+  font-weight:semi-bold;
+  font-size: 23px;
+  border-radius: 100%;
+  height:200px;
+  width:200px;
+  opacity: 0;
+  transition: 0.3s;
+  position:absolute;
+  border:none;
+}
+
+.overbutton:hover {opacity: 0.75}
+
+#overphotography{
+  margin: 0px 0px 0px 40px;
+  z-index:1;
+}
+#overdigital{
+  margin: 0px 0px 0px 281px;
+  z-index:1;
+}
+
+#overtraditional{
+  margin: 0px 0px 0px 520px;
+  z-index:1;
+}
+
+#overprojects{
+  margin: 0px 0px 0px 760px;
+  z-index:1;
+}
+
+#photographyphoto{
+  transform: translate(-20px, -55px); 
+}
+
+#digitalphoto{
+  transform: translate(-60px, 1px); 
+}
+
+#traditionalphoto{
+  transform: translate(-40px, -17px); 
+}
+
+footer{
+  background: #dddddd;
+  Margin: 200px 0px 0px 0px;
+  padding: 20px 10px 20px 10px;
+  box-shadow: 0px -0px 20px grey;
+  position: absolute;
+  width:1033px;
+  
+}
+
+#footertexthome{
+   font-family:'Montserrat', sans-serif;
+  font-size:22px;
+  float:left;
+  margin-right: 22px;
+  margin-left: 10px;
+  background:#FFF769;
+  border:none;
+  transition: 0.1s;
+}
+#footertexthome:hover {opacity: 50%}
+
+.footertext{
+   font-family:'Montserrat', sans-serif;
+  font-size:22px;
+  float:left;
+  margin-right: 22px;
+  background:none;
+  border:none;
+  transition: 0.1s;
+}
+.footertext:hover {opacity: 0.5}
+
+#footertextcontactandabout{
+   font-family:'Montserrat', sans-serif;
+  font-size:22px;
+  background:none;
+  border:none;
+  margin-right:6px;
+  transition: 0.1s;
+}
+#footertextcontactandabout:hover {opacity: 0.5}
