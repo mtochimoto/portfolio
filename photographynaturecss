@@ -1,0 +1,164 @@
+#mayatochimoto{
+font-family: 'Montserrat', sans-serif;
+text-align:center;
+font-size:37px;
+padding:80px 0px 0px 0px ;
+}
+
+#headerportfolio{
+  font-family: 'Montserrat', sans-serif;
+  text-align:center;
+  font-size:20px;
+  letter-spacing:20px;
+}
+
+hr{
+  background:black;
+  width: 500px;
+  height:1px; 
+  padding:0px;
+}
+
+#header{
+  background:#fbfbfb;
+  width:100%;
+  Height:270px;
+}
+
+#naturetext{
+  text-align:center;
+  font-family: 'Gelasio', serif ;
+  letter-spacing:2px;
+  font-size:20px;
+}
+
+#photos{
+  padding:100px 140px 100px 140px;
+}
+
+#crop1{
+  overflow:hidden;
+  width:370px;
+  height:280px;
+  float:left;
+  margin-right:10px;
+}
+#photo1{ transform:translate(0px,0px);
+  width:450px;
+}
+
+#crop2{
+  overflow:hidden;
+  float:left;
+  width:424px;
+  height:280px;
+}
+#photo2{
+  width:430px;
+  transform:translate(0px, 0px);
+}
+
+#crop3{
+  overflow:hidden;
+  float:left;
+  width:300px;
+  height:350px;
+  margin-top:10px;
+  margin-right:10px;
+}
+#photo3{
+  width:370px;
+ transform:translate(-30px, -55px);
+}
+
+#crop4{
+  overflow:hidden;
+  float:left;
+  width:494px;
+  height:350px;
+  margin-top:10px;
+}
+#photo4{
+  width:525px;
+ transform:translate(-30px, 0px);
+}
+
+#crop5{
+  overflow:hidden;
+  float:left;
+  width:430px;
+  height:300px;
+  margin-top:10px;
+  margin-right:10px;
+}
+#photo5{
+  width:450px;
+  transform:translate(-20px,0px)
+}
+#crop6{
+  overflow:hidden;
+  float:left;
+  width:365px;
+  height:300px;
+  margin-top:10px;
+  margin-right:10px;
+}
+#photo6{
+  width:452px; transform:translate(-25px,0px)
+}
+
+
+footer{
+  background: #dddddd;
+  Margin-top: 1000px;
+  padding: 20px 10px 20px 30px;
+  box-shadow: 0px -0px 20px grey;
+  position: absolute;
+  
+}
+
+#footertexthome{
+   font-family:'Montserrat', sans-serif;
+  font-size:22px;
+  float:left;
+  margin-right: 22px;
+  margin-left: 3px;
+  background:none;
+  border:none;
+  transition: 0.1s;
+}
+#footertexthome:hover {opacity: 0.5}
+
+
+.footertext{
+   font-family:'Montserrat', sans-serif;
+  font-size:22px;
+  float:left;
+  margin-right: 22px;
+  background:none;
+  border:none;
+  transition: 0.1s;
+}
+.footertext:hover {opacity: 0.5}
+
+
+#footertextphotography{
+  background:#FFF769;
+  font-family:'Montserrat', sans-serif;
+  font-size:22px;
+  float:left;
+  margin-right: 22px;
+  border:none;
+  transition: 0.1s;
+}
+#footertextphotography:hover {opacity: 0.5}
+
+#footertextcontactandabout{
+   font-family:'Montserrat', sans-serif;
+  font-size:22px;
+  background:none;
+  border:none;
+  margin-right:6px;
+  transition: 0.1s;
+}
+#footertextcontactandabout:hover {opacity: 0.5}
